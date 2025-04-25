@@ -1,4 +1,4 @@
 nome = 'rodrigo'
 sobrenome = 'martinez'
 
-print(nome, sobrenome)
+print(f"Meu nome é {nome} e meu sobrenome é {sobrenome}")
