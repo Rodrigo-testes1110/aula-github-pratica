@@ -10,3 +10,4 @@ print(soma(2,3))
 
 
 print("Salvando o codigo de casa novamente")
+print("Aula de github e acesso ao repositorio")
